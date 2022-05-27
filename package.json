@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0", 
-  "homepage": "https://github.io/MilkDevelopment/robofriends",
+  "homepage": "https://milkdevelopment.github.io/robofriends/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
