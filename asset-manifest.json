@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MilkDevelopment/robofriends/static/css/main.4f20f797.css",
+    "main.js": "/MilkDevelopment/robofriends/static/js/main.1f1ba2cb.js",
+    "static/js/787.32032a02.chunk.js": "/MilkDevelopment/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/MilkDevelopment/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/MilkDevelopment/robofriends/index.html",
+    "main.4f20f797.css.map": "/MilkDevelopment/robofriends/static/css/main.4f20f797.css.map",
+    "main.1f1ba2cb.js.map": "/MilkDevelopment/robofriends/static/js/main.1f1ba2cb.js.map",
+    "787.32032a02.chunk.js.map": "/MilkDevelopment/robofriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f20f797.css",
+    "static/js/main.1f1ba2cb.js"
+  ]
+}
